@@ -1,2 +1,2 @@
 # Chatstrap
-Bootstrap template for chatbots
+Bootstrap template for chatbots. Can be customized.
